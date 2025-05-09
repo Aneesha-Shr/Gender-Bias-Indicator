@@ -8,5 +8,6 @@ You can download the main R file and equalize_pairs.json file directly to your c
 _Lines to Change_
 
 Line 136 - Put in the exact file path for the equalize_pairs.json on your machine
+
 Optional:
 Line 130 - change the file path for the automatic save location

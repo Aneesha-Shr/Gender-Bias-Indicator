@@ -1,0 +1,334 @@
+[
+    [
+        "monastery",
+        "convent"
+    ],
+    [
+        "spokesman",
+        "spokeswoman"
+    ],
+    [
+        "Catholic_priest",
+        "nun"
+    ],
+    [
+        "Dad",
+        "Mom"
+    ],
+    [
+        "Men",
+        "Women"
+    ],
+    [
+        "councilman",
+        "councilwoman"
+    ],
+    [
+        "grandpa",
+        "grandma"
+    ],
+    [
+        "grandsons",
+        "granddaughters"
+    ],
+    [
+        "prostate_cancer",
+        "ovarian_cancer"
+    ],
+    [
+        "testosterone",
+        "estrogen"
+    ],
+    [
+        "uncle",
+        "aunt"
+    ],
+    [
+        "wives",
+        "husbands"
+    ],
+    [
+        "Father",
+        "Mother"
+    ],
+    [
+        "Grandpa",
+        "Grandma"
+    ],
+    [
+        "He",
+        "She"
+    ],
+    [
+        "boy",
+        "girl"
+    ],
+    [
+        "boys",
+        "girls"
+    ],
+    [
+        "brother",
+        "sister"
+    ],
+    [
+        "brothers",
+        "sisters"
+    ],
+    [
+        "businessman",
+        "businesswoman"
+    ],
+    [
+        "chairman",
+        "chairwoman"
+    ],
+    [
+        "colt",
+        "filly"
+    ],
+    [
+        "congressman",
+        "congresswoman"
+    ],
+    [
+        "dad",
+        "mom"
+    ],
+    [
+        "dads",
+        "moms"
+    ],
+    [
+        "dudes",
+        "gals"
+    ],
+    [
+        "ex_girlfriend",
+        "ex_boyfriend"
+    ],
+    [
+        "father",
+        "mother"
+    ],
+    [
+        "fatherhood",
+        "motherhood"
+    ],
+    [
+        "fathers",
+        "mothers"
+    ],
+    [
+        "fella",
+        "granny"
+    ],
+    [
+        "fraternity",
+        "sorority"
+    ],
+    [
+        "gelding",
+        "mare"
+    ],
+    [
+        "gentleman",
+        "lady"
+    ],
+    [
+        "gentlemen",
+        "ladies"
+    ],
+    [
+        "grandfather",
+        "grandmother"
+    ],
+    [
+        "grandson",
+        "granddaughter"
+    ],
+    [
+        "he",
+        "she"
+    ],
+    [
+        "himself",
+        "herself"
+    ],
+    [
+        "his",
+        "her"
+    ],
+    [
+        "king",
+        "queen"
+    ],
+    [
+        "kings",
+        "queens"
+    ],
+    [
+        "male",
+        "female"
+    ],
+    [
+        "males",
+        "females"
+    ],
+    [
+        "man",
+        "woman"
+    ],
+    [
+        "men",
+        "women"
+    ],
+    [
+        "nephew",
+        "niece"
+    ],
+    [
+        "prince",
+        "princess"
+    ],
+    [
+        "schoolboy",
+        "schoolgirl"
+    ],
+    [
+        "son",
+        "daughter"
+    ],
+    [
+        "sons",
+        "daughters"
+    ],
+    [
+        "twin_brother",
+        "twin_sister"
+    ],
+
+    ["actor", "actress"],
+    ["actors", "actresses"],
+    ["aunt", "uncle"],
+    ["aunts", "uncles"],
+    ["bachelor", "spinster"],
+    ["baritone", "diva"],
+    ["beau", "belle"],
+    ["bloke", "gal"],
+    ["blokes", "gals"],
+    ["boy", "girl"],
+    ["boyfriend", "girlfriend"],
+    ["boyfriends", "girlfriends"],
+    ["boyhood", "girlhood"],
+    ["boys", "girls"],
+    ["bride", "groom"],
+    ["brides", "grooms"],
+    ["brother", "sister"],
+    ["brothers", "sisters"],
+    ["businessman", "businesswoman"],
+    ["chairman", "chairwoman"],
+    ["chap", "lass"],
+    ["colt", "filly"],
+    ["colts", "fillies"],
+    ["congressman", "congresswoman"],
+    ["councilman", "councilwoman"],
+    ["councilmen", "councilwomen"],
+    ["countryman", "countrywoman"],
+    ["dad", "mom"],
+    ["daddy", "mommy"],
+    ["dads", "moms"],
+    ["daughter", "son"],
+    ["daughters", "sons"],
+    ["dude", "gal"],
+    ["dudes", "gals"],
+    ["elder_brother", "elder_sister"],
+    ["eldest_son", "eldest_daughter"],
+    ["estranged_husband", "estranged_wife"],
+    ["ex_boyfriend", "ex_girlfriend"],
+    ["father", "mother"],
+    ["fatherhood", "motherhood"],
+    ["fathers", "mothers"],
+    ["fella", "gal"],
+    ["fiance", "fiancee"],
+    ["gentleman", "lady"],
+    ["gentlemen", "ladies"],
+    ["girl", "boy"],
+    ["girlfriend", "boyfriend"],
+    ["girlfriends", "boyfriends"],
+    ["goddess", "god"],
+    ["godfather", "godmother"],
+    ["granddaughter", "grandson"],
+    ["granddaughters", "grandsons"],
+    ["grandfather", "grandmother"],
+    ["grandpa", "grandma"],
+    ["he", "she"],
+    ["heiress", "heir"],
+    ["hen", "rooster"],
+    ["her", "his"],
+    ["heroine", "hero"],
+    ["hers", "his"],
+    ["herself", "himself"],
+    ["him", "her"],
+    ["himself", "herself"],
+    ["his", "her"],
+    ["hostess", "host"],
+    ["housewife", "husband"],
+    ["hubby", "wifey"],
+    ["husband", "wife"],
+    ["husbands", "wives"],
+    ["king", "queen"],
+    ["kings", "queens"],
+    ["lad", "lass"],
+    ["lads", "lasses"],
+    ["lady", "gentleman"],
+    ["lesbian", "gay_man"],
+    ["lion", "lioness"],
+    ["ma", "pa"],
+    ["maid", "butler"],
+    ["maiden", "youth"],
+    ["male", "female"],
+    ["males", "females"],
+    ["man", "woman"],
+    ["men", "women"],
+    ["mistress", "master"],
+    ["mom", "dad"],
+    ["mommy", "daddy"],
+    ["moms", "dads"],
+    ["monk", "nun"],
+    ["monks", "nuns"],
+    ["mother", "father"],
+    ["mothers", "fathers"],
+    ["nephew", "niece"],
+    ["niece", "nephew"],
+    ["nuns", "monks"],
+    ["pa", "ma"],
+    ["prince", "princess"],
+    ["princes", "princesses"],
+    ["queen", "king"],
+    ["queens", "kings"],
+    ["salesman", "saleswoman"],
+    ["schoolboy", "schoolgirl"],
+    ["she", "he"],
+    ["sister", "brother"],
+    ["sisters", "brothers"],
+    ["son", "daughter"],
+    ["sons", "daughters"],
+    ["spokesman", "spokeswoman"],
+    ["spokesmen", "spokeswomen"],
+    ["stepdaughter", "stepson"],
+    ["stepfather", "stepmother"],
+    ["stepmother", "stepfather"],
+    ["stepson", "stepdaughter"],
+    ["uncle", "aunt"],
+    ["uncles", "aunts"],
+    ["waitress", "waiter"],
+    ["widow", "widower"],
+    ["widower", "widow"],
+    ["wife", "husband"],
+    ["witch", "wizard"],
+    ["witches", "wizards"],
+    ["woman", "man"],
+    ["women", "men"],
+    ["younger_brother", "younger_sister"]
+]
